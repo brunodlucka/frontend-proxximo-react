@@ -1,10 +1,10 @@
-# Projeto front-end para o sistema Proxximo em React
+# Projeto front-end para o Sistema Proxximo em React
 
-para iniciar o projeto é necessario possui o nodeJS inicia-lo com os comandos.
+para iniciar o projeto é necessario possui o nodeJS e inicia-lo com os comandos.
 
-## Script
+## Scripts
 
-No diretorio do projeto iniciar comIn the project directory, you can run:
+No diretorio do projeto iniciar com:
 
 ###  $ npm start
 
